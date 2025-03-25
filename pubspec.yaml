@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
+  just_audio: ^0.9.46
+  audioplayers: ^6.4.0
   # Use Audioplayers dependency version 0.17.4
 
 dev_dependencies:
